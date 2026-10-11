@@ -5,11 +5,10 @@ Repository ini berisi implementasi algoritma **Value Iteration** untuk menyelesa
 
 ## Daftar File
 - `VI.ipynb`: Implementasi algoritma Value Iteration pada studi kasus pemilihan jalur dari Rumah menuju Kampus.
-- `VI_5_SHAPE.ipynb`: Implementasi Value Iteration pada studi kasus tambahan dengan lima atau lebih state, sesuai isi notebook.
+- `VI_5_SHAPE.ipynb`: Implementasi Value Iteration pada studi kasus tambahan dengan lima atau lebih state.
 
 ## Pustaka yang Digunakan
 - Python 3
-- NumPy (jika digunakan dalam notebook)
 - Matplotlib (jika digunakan untuk membuat grafik)
 
 ## Cara Menjalankan
